@@ -2,8 +2,8 @@
 name: cryptocurrency_update
 
 env:
-  AUTOMATION_USERNAME: "USERNAME"
-  AUTOMATION_EMAIL: "USEREMAIL"
+  AUTOMATION_USERNAME: "jeancguerrero"
+  AUTOMATION_EMAIL: "a346923@uach.mx"
 
 # Controls when the action will run.
 on:
